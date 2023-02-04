@@ -127,7 +127,7 @@ plt.xlabel('Year')
 plt.show()
 
 
-#combine index to stocks
+#compare index to stocks
 securities = ['voo', 'msft', 'crm', 'axp', 'aapl', 'tsla', 'nvda']
 
 dfs = pd.DataFrame()
