@@ -15,7 +15,3 @@ print(df.diff())
 
 df = df.corr()
 print(df.corr())
-
-
-
-
